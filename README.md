@@ -1,4 +1,4 @@
-# SRM 项目开发描述
+# 项目模板开发描述
 ## 技术栈
 * `ts+react+react-router+react-redux+redux-saga+antd`
 ## 项目初始化配置
